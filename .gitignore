@@ -1,0 +1,4 @@
+bwout/
+.scannerwork/
+.DS_Store/
+**/*.o
